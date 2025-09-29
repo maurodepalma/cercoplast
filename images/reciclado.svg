@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46px" height="46px" viewBox="0 0 46 46" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.360054 13.650815 L 3.150815 17.380435 C 2.957201 17.714674 2.957201 18.128397 3.150815 18.462636 C 3.344429 18.796875 3.703125 19.000679 4.090353 19.000679 L 10.999321 19.000679 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 16.000679 19.000679 L 19.930027 19.049592 C 20.315217 19.05163 20.671875 18.84375 20.863451 18.507473 C 21.052989 18.173234 21.048913 17.761549 20.849185 17.429348 L 17.470109 11.559783 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 15.089674 7.330842 L 13.000679 3.540082 C 12.807065 3.205842 12.450408 3 12.065217 3 C 11.680027 3 11.32337 3.205842 11.129755 3.540082 L 7.669158 9.540082 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 9.299592 16.999321 L 10.999321 19.000679 L 9 21 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 16.52038 13.919837 L 17.400815 11.449728 L 20.129755 12.179348 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(15.686275%,15.686275%,15.686275%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.220788 9.059103 L 7.640625 9.529891 L 6.911005 6.800951 " transform="matrix(1.916667,0,0,1.916667,0,0)"/>
+</g>
+</svg>
